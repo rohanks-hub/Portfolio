@@ -1,0 +1,14 @@
+.d{
+    color: #c9d1d9;
+}
+.e, .f, .g {
+    background-color: #c9d1d9;
+    color: #0d1117;
+    border-radius: 30px;
+    padding: 5px;
+}
+.e:hover, .f:hover, .g:hover {
+    background-color: lightgray;
+    color: navy;
+    border: 2px solid #c9d1d9;
+}
